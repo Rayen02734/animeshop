@@ -1,0 +1,78 @@
+header{
+    width: 20%;
+}
+
+#s1{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body{
+   display: flex;
+   background-color: antiquewhite;
+}
+
+#s2{
+    width: 30%;
+}
+
+img{
+    border-radius: 8px;
+    width: 70%;
+    justify-content: center;
+    gap: 10px;
+    justify-items: center;
+    height: 150px;
+}
+
+button{
+    border-radius: 8px;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+div{
+    width: 30%;
+    position: relative;
+}
+
+.ca{
+    border-radius: 8px;
+    background-color: bisque;
+}
+
+span{
+    color: red;
+}
+
+.css{
+    font-family: "Manufacturing Consent", system-ui;
+    color: black;
+}
+
+
+legend{
+     font-family: "Libertinus Mono", monospace;
+}
+
+label{
+     font-family: "Libertinus Mono", monospace;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+#ps{
+    color: black;
+}
+
+h1{
+    font-family: cursive;
+}
